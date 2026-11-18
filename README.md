@@ -15,6 +15,24 @@ Repository URL: `https://github.com/MuguDEV/ben-thamizha-patches`
 ## Included patch
 
 <!-- PATCHES_START -->
+> **[v1.0.0](https://github.com/MuguDEV/ben-thamizha-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Ben Thamizha&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**Package name:** `com.ben.thamizha`
+
+**🎯 Supported versions:**
+
+| 1.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable ad checks](#disable-ad-checks) | Disables native and JavaScript ad-block detection without changing playback or navigation. |  |
+
+</details>
+
 <!-- PATCHES_END -->
 
 ### Disable ad checks
