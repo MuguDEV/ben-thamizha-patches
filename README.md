@@ -14,6 +14,9 @@ Repository URL: `https://github.com/MuguDEV/ben-thamizha-patches`
 
 ## Included patch
 
+<!-- PATCHES_START [EXPANDED] -->
+<!-- PATCHES_END -->
+
 ### Disable ad checks
 
 Targets `com.ben.thamizha` version `1.0` and:
